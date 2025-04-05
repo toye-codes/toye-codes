@@ -24,8 +24,8 @@ I’m open to full-time roles, freelance opportunities, and collaborative projec
 ## 🌟 Featured Projects
 
 ### [Boubou by Bibi](#)
-- **Description**: A stylish e-commerce site showcasing fashion products. Built with React and Redux for smooth user experience and state management.
-- **Tech Stack**: React, Redux, Node.js
+- **Description**: A stylish landing page site showcasing fashion products. Built with React for smooth user experience and state management.
+- **Tech Stack**: React, Tailwind Css, Javascript
 - **Live Demo**: [Link to Demo](#)
 - **Repository**: [GitHub Repo](#)
 
