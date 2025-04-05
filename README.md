@@ -1,0 +1,72 @@
+# Hi there! I'm Olusanya Agbesanya 👋
+
+**Frontend Developer** focused on building modern, user-friendly web applications with **React** and **Redux**. I’m also passionate about writing **technical articles** to help others learn. Always excited to explore new opportunities and contribute to meaningful projects.
+
+---
+
+## 👨‍💻 About Me
+
+I’m a passionate **Frontend Developer** focused on building clean, scalable, and intuitive web applications. I enjoy working with **React** and **Redux** to bring ideas to life. Additionally, I write **technical articles** to help others learn and grow in the web development field. When I'm not coding, I love to keep learning and improving my skills.
+
+I’m open to full-time roles, freelance opportunities, and collaborative projects.
+
+---
+
+## 🚀 Skills & Technologies
+
+- **Languages:** JavaScript, HTML, CSS
+- **Frameworks & Libraries:** React, Redux
+- **Tools & Technologies:** Git, Webpack, Babel, NPM, VSCode
+- **Others:** Technical Writing, API Integration, Responsive Design
+
+---
+
+## 🌟 Featured Projects
+
+### [Boubou by Bibi](#)
+- **Description**: A stylish e-commerce site showcasing fashion products. Built with React and Redux for smooth user experience and state management.
+- **Tech Stack**: React, Redux, Node.js
+- **Live Demo**: [Link to Demo](#)
+- **Repository**: [GitHub Repo](#)
+
+---
+
+## 📝 Technical Articles & Blog
+
+I enjoy sharing my knowledge through **technical articles**. You can find my articles on web development, React, and more on my [Hashnode Blog](https://yourhashnodeprofilelink).
+
+Some of my recent articles:
+- [Article 1 Title](#)
+- [Article 2 Title](#)
+- [Article 3 Title](#)
+
+---
+
+## 📚 Currently Learning
+
+- **Next.js** – Exploring server-side rendering and static site generation.
+- **TypeScript** – Adding types to JavaScript for better scalability and safety.
+
+---
+
+## 📬 Contact
+
+- **Email**: your-email@example.com
+- **LinkedIn**: [Olusanya Agbesanya](https://www.linkedin.com/in/olusanya-agbesanya)
+- **Twitter (X)**: [@olusanyaa](https://x.com/_olusanyaa)
+- **GitHub**: [@yourgithub](https://github.com/yourgithub)
+
+---
+
+## 🛠 Technologies & Tools
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+![Toye's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourgithub&show_icons=true&hide_title=true&count_private=true&theme=radical)
