@@ -33,7 +33,7 @@ I’m open to full-time roles, freelance opportunities, and collaborative projec
 
 ## 📝 Technical Articles & Blog
 
-I enjoy sharing my knowledge through **technical articles**. You can find my articles on web development, React, and more on my [Hashnode Blog](https://yourhashnodeprofilelink).
+I enjoy sharing my knowledge through **technical articles**. You can find my articles on web development, React, and more on my [Hashnode Blog]([https://yourhashnodeprofilelink](https://hicodes.hashnode.dev)).
 
 Some of my recent articles:
 - [Article 1 Title](#)
@@ -51,7 +51,7 @@ Some of my recent articles:
 
 ## 📬 Contact
 
-- **Email**: your-email@example.com
+- **Email**: agbesanyaolusanya@gmail.com
 - **LinkedIn**: [Olusanya Agbesanya](https://www.linkedin.com/in/olusanya-agbesanya)
 - **Twitter (X)**: [@olusanyaa](https://x.com/_olusanyaa)
 - **GitHub**: [@yourgithub](https://github.com/yourgithub)
