@@ -27,6 +27,7 @@ I’m open to full-time roles, freelance opportunities, and collaborative projec
 - **Description**: A stylish landing page site showcasing fashion products. Built with React for smooth user experience and state management.
 - **Tech Stack**: React, Tailwind Css, Javascript
 - **Live Demo**: [Link to Demo]([#](https://boubou-lime.vercel.app/#shopPerfumeNow))
+- 
 - **Repository**: [GitHub Repo](#https://github.com/toye-codes/Boubou)
 
 ---
