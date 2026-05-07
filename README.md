@@ -23,19 +23,19 @@ I’m open to full-time roles, freelance opportunities, and collaborative projec
 
 ## 🌟 Featured Projects
 
-### [Boubou by Bibi](https://boubou-lime.vercel.app/#shopPerfumeNow)
-- **Description**: A stylish landing page site showcasing fashion products. Built with React for smooth user experience and state management.
-- **Tech Stack**: React, Tailwind Css, Javascript
+### [Paypilot](https://paypilot-three.vercel.app/dashboard)
+- **Description**: A scalable financial management system built to help businesses track transactions, manage inventory, and gain insights into their cash flow — all from a clean, structured interface.
+- **Tech Stack**: React, Typescript, Tailwind Css
 
-- **Live Demo**: [Link to Demo](https://boubou-lime.vercel.app/#shopPerfumeNow)
-- **Repository**: [GitHub Repo](https://github.com/toye-codes/Boubou)
+- **Live Demo**: [Link to Demo](https://paypilot-three.vercel.app/)
+- **Repository**: [GitHub Repo](https://github.com/toye-codes/paypilot)
 
 
 ---
 
 ## 📝 Technical Articles & Blog
 
-I enjoy sharing my knowledge through **technical articles**. You can find my articles on web development, React, and more on my [Hashnode Blog]([https://yourhashnodeprofilelink](https://hicodes.hashnode.dev)).
+I enjoy sharing my knowledge through **technical articles**. You can find my articles on web development, React, and more on my [Substack]([https://yourhashnodeprofilelink](https://hicodes.hashnode.dev](https://olusanyaagbesanya.substack.com/))).
 
 Some of my recent articles:
 - [Article 1 Title](#)
@@ -65,6 +65,7 @@ Some of my recent articles:
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-764ABC?style=flat&logo=redux&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 ---
