@@ -38,8 +38,8 @@ I’m open to full-time roles, freelance opportunities, and collaborative projec
 I enjoy sharing my knowledge through **technical articles**. You can find my articles on web development, React, and more on my [Substack]([https://yourhashnodeprofilelink](https://hicodes.hashnode.dev](https://olusanyaagbesanya.substack.com/))).
 
 Some of my recent articles:
-- [Article 1 Title](#)
-- [Article 2 Title](#)
+- [Scalabilty is a design problem](#https://open.substack.com/pub/olusanyaagbesanya/p/scalability-is-a-design-problem-not?r=2ioqs0&utm_campaign=post&utm_medium=web)
+- [How Do You Handle Filtering at Scale Without Killing Performance?](#https://open.substack.com/pub/olusanyaagbesanya/p/how-do-you-handle-filtering-at-scale?r=2ioqs0&utm_campaign=post&utm_medium=web)
 - [Article 3 Title](#)
 
 ---
