@@ -1,6 +1,4 @@
 
-## Number of Visitors
-![](https://komarev.com/ghpvc/?username=toye-codes&color=blueviolet)
 
 
 # Hi, I'm Olusanya Agbesanya 👋
@@ -86,7 +84,7 @@ Some of my recent articles:
 
 ## 🏆 Achievements
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=toye-codes&theme=radical&no-frame=true)
+[![trophy](https://github-profile-trophy.vercel.app/?username=toye-codes&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 📈 Contribution Graph
 
