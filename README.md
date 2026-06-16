@@ -1,6 +1,15 @@
-# Hi there! I'm Olusanya Agbesanya 👋
 
-**Frontend Developer** focused on building modern, user-friendly web applications with **React** and **Redux**. I’m also passionate about writing **technical articles** to help others learn. Always excited to explore new opportunities and contribute to meaningful projects.
+## Number of Visitors
+![](https://komarev.com/ghpvc/?username=toye-codes&color=blueviolet)
+
+
+# Hi, I'm Olusanya Agbesanya 👋
+
+Frontend Engineer specializing in React, Next.js, TypeScript, and scalable SaaS applications.
+
+🚀 Building products
+✍️ Writing technical articles
+🤝 Open to freelance, startup, and full-time opportunities
 
 ---
 
@@ -44,11 +53,12 @@ Some of my recent articles:
 
 ---
 
-## 📚 Currently Learning
+## 🎯 Current Focus
 
-- **Next.js** – Exploring server-side rendering and static site generation.
-- **TypeScript** – Adding types to JavaScript for better scalability and safety.
-
+- Building scalable SaaS applications
+- Frontend architecture and performance optimization
+- AI-powered web applications
+- Technical writing and developer education
 ---
 
 ## 📬 Contact
@@ -56,7 +66,7 @@ Some of my recent articles:
 - **Email**: agbesanyaolusanya@gmail.com
 - **LinkedIn**: [Olusanya Agbesanya](https://www.linkedin.com/in/olusanya-agbesanya)
 - **Twitter (X)**: [@olusanyaa](https://x.com/_olusanyaa)
-- **GitHub**: [@yourgithub](https://github.com/yourgithub)
+- **GitHub**: [@yourgithub](https://github.com/toye-codes)
 
 ---
 
@@ -72,4 +82,12 @@ Some of my recent articles:
 
 ## 📊 GitHub Stats
 
-![Toye's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourgithub&show_icons=true&hide_title=true&count_private=true&theme=radical)
+![Toye's GitHub Stats](https://github-readme-stats.vercel.app/api?username=toye-codes&show_icons=true&hide_title=true&count_private=true&theme=radical)
+
+## 🏆 Achievements
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=toye-codes&theme=radical&no-frame=true)
+
+## 📈 Contribution Graph
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=toye-codes&theme=react-dark)
