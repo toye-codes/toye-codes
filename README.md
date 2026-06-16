@@ -88,4 +88,4 @@ Some of my recent articles:
 
 ## 📈 Contribution Graph
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=toye-codes&theme=react-dark)
+![Snake animation](https://github.com/toye-codes/toye-codes/blob/output/github-contribution-grid-snake.svg)
