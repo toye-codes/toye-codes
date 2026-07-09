@@ -64,7 +64,7 @@ Some of my recent articles:
 - **Email**: agbesanyaolusanya@gmail.com
 - **LinkedIn**: [Olusanya Agbesanya](https://www.linkedin.com/in/olusanya-agbesanya)
 - **Twitter (X)**: [@olusanyaa](https://x.com/_olusanyaa)
-- **GitHub**: [@yourgithub](https://github.com/toye-codes)
+- **GitHub**: [@toye-codes](https://github.com/toye-codes)
 
 ---
 
