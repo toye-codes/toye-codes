@@ -82,9 +82,10 @@ Some of my recent articles:
 
 ![Toye's GitHub Stats](https://github-readme-stats.vercel.app/api?username=toye-codes&show_icons=true&hide_title=true&count_private=true&theme=radical)
 
-## 🏆 Achievements
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=toye-codes&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+## 🏆 GitHub Achievements
+
+[![GitHub Trophies](https://github-profile-trophy-liard-delta.vercel.app/?username=toye-codes&theme=radical&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 📈 Contribution Graph
 
